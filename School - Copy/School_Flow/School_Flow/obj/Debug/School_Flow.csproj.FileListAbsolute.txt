@@ -1,0 +1,45 @@
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\AutoItX3.dll
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\AutoItX3_x64.dll
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\School_Flow.dll
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\School_Flow.pdb
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\AutoItX3.Assembly.dll
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\WebDriver.dll
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\WebDriver.Support.dll
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\AutoItX3.Assembly.xml
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\WebDriver.xml
+C:\Automation\School\School_Flow\School_Flow\bin\Debug\WebDriver.Support.xml
+C:\Automation\School\School_Flow\School_Flow\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Automation\School\School_Flow\School_Flow\obj\Debug\School_Flow.csproj.ResolveComReference.cache
+C:\Automation\School\School_Flow\School_Flow\obj\Debug\School_Flow.dll
+C:\Automation\School\School_Flow\School_Flow\obj\Debug\School_Flow.pdb
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\AutoItX3.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\AutoItX3_x64.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\School_Flow.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\School_Flow.pdb
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\AutoItX3.Assembly.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\nunit.framework.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\WebDriver.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\WebDriver.Support.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\AutoItX3.Assembly.xml
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\nunit.framework.xml
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\WebDriver.xml
+C:\Automation\School - Copy\School_Flow\School_Flow\bin\Debug\WebDriver.Support.xml
+C:\Automation\School - Copy\School_Flow\School_Flow\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\obj\Debug\School_Flow.csproj.ResolveComReference.cache
+C:\Automation\School - Copy\School_Flow\School_Flow\obj\Debug\School_Flow.dll
+C:\Automation\School - Copy\School_Flow\School_Flow\obj\Debug\School_Flow.pdb

@@ -1,0 +1,36 @@
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\AutoItX3.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\AutoItX3_x64.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\GIP.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\GIP.pdb
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\AutoItX3.Assembly.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\WebDriver.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\WebDriver.Support.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\AutoItX3.Assembly.xml
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\WebDriver.xml
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\WebDriver.Support.xml
+C:\Automation\Com.GIP\GIP\GIP\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Automation\Com.GIP\GIP\GIP\obj\Debug\GIP.csproj.ResolveComReference.cache
+C:\Automation\Com.GIP\GIP\GIP\obj\Debug\GIP.dll
+C:\Automation\Com.GIP\GIP\GIP\obj\Debug\GIP.pdb
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\AutoItX3.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\AutoItX3_x64.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\GIP.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\GIP.pdb
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\AutoItX3.Assembly.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\EPPlus.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\Excel.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\nunit.framework.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\WebDriver.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\WebDriver.Support.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\AutoItX3.Assembly.xml
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\EPPlus.xml
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\Excel.pdb
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\nunit.framework.xml
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\WebDriver.xml
+C:\Automation\Com.GIP - Copy\GIP\GIP\bin\Debug\WebDriver.Support.xml
+C:\Automation\Com.GIP - Copy\GIP\GIP\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\obj\Debug\GIP.csproj.ResolveComReference.cache
+C:\Automation\Com.GIP - Copy\GIP\GIP\obj\Debug\GIP.dll
+C:\Automation\Com.GIP - Copy\GIP\GIP\obj\Debug\GIP.pdb

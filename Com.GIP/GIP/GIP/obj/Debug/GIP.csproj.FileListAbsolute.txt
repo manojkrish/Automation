@@ -1,0 +1,14 @@
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\AutoItX3.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\AutoItX3_x64.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\GIP.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\GIP.pdb
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\AutoItX3.Assembly.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\WebDriver.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\WebDriver.Support.dll
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\AutoItX3.Assembly.xml
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\WebDriver.xml
+C:\Automation\Com.GIP\GIP\GIP\bin\Debug\WebDriver.Support.xml
+C:\Automation\Com.GIP\GIP\GIP\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Automation\Com.GIP\GIP\GIP\obj\Debug\GIP.csproj.ResolveComReference.cache
+C:\Automation\Com.GIP\GIP\GIP\obj\Debug\GIP.dll
+C:\Automation\Com.GIP\GIP\GIP\obj\Debug\GIP.pdb
